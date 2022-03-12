@@ -1,2 +1,1 @@
-###skolas prokelts
 ##Max zvej
